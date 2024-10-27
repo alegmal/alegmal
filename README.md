@@ -1,5 +1,6 @@
-## Hi there 👋
+## Oh damn, you're here...
 
+[![My Skills](https://skillicons.dev/icons?i=js,aws,gcp,bitbucket,grafana,kubernetes,vscode)](https://skillicons.dev)
 <!--
 **alegmal/alegmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
