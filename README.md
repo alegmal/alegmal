@@ -1,11 +1,24 @@
-## Oh, you're here...
+###### *#!/dev/ops/since 2017*
 
-[![My Skills](https://skillicons.dev/icons?i=js,aws,gcp,bitbucket,grafana,kubernetes,vscode)](https://skillicons.dev)
+```javascript
+const alegmal.tech = {
+    learningFullStack: {
+        currentFocus: ['MongoDB', 'Express.js', 'React', 'Node.js'],
+        nextInStack: ['Go', 'Portfolio Website'],
+        status: "Building skills and creating projects!"
+    },
+};
+
+```
+
+
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,aws,gcp,bitbucket,grafana,kubernetes,vscode)](https://skillicons.dev) -->
 <!--
 **alegmal/alegmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🎬 Experience
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
