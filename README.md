@@ -3,11 +3,17 @@
 ```javascript
 const alegmal.tech = {
     learningFullStack: {
-        currentFocus: ['MongoDB', 'Express.js', 'React', 'Node.js'],
-        nextInStack: ['Go', 'Portfolio Website'],
-        status: "Building skills and creating projects!"
+        currentFocus: ['React'],
+        nextFocus: [
+                      'MERN.js',
+                      'Portfolio Website'
+                   ],
     },
 };
+
+const consideredTopicsOfExploration = ['GraphQL', 'gRPC + Protobuf', 'Go' ]
+
+//TODO: Pick github project to contribute to
 
 ```
 
