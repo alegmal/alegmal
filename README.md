@@ -1,20 +1,13 @@
 ###### *#!/dev/ops/since 2017*
 
 ```javascript
-const alegmal.tech = {
-    learningFullStack: {
-        currentFocus: ['React'],
-        nextFocus: [
-                      'MERN.js',
-                      'Portfolio Website'
-                   ],
-    },
+const alegmal = {
+  hobbies: ["running", "gaming", "tech"],
+  tech: {
+    currentFocus: "Go",
+    backlog: ["GraphQL", "gRPC + Protobuf", "React", "MERN"],
+  },
 };
-
-const consideredTopicsOfExploration = ['GraphQL', 'gRPC + Protobuf', 'Go' ]
-
-//TODO: Pick github project to contribute to
-
 ```
 
 
