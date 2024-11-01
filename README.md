@@ -2,11 +2,15 @@
 
 ```javascript
 const alegmal = {
-  hobbies: ["running", "gaming", "tech"],
+  hobbies: ["running", "gaming", "tech", "space"],
   tech: {
     currentFocus: "Go",
-    backlog: ["GraphQL", "gRPC + Protobuf", "React", "MERN"],
+    backlog: ["GraphQL", "gRPC + Protobuf", "React", "bubbletea"],
   },
+  stats: {
+    alts: 3,
+    mainExpertise: "Devops"
+  }
 };
 ```
 
