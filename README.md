@@ -8,7 +8,7 @@ const alegmal = {
     backlog: [ "GraphQL", "gRPC + Protobuf", "React", "bubbletea", "AWS Architect Certification" ],
   },
   stats: {
-    alts: 3,
+    alts: 2,
     mainExpertise: "Devops"
   }
 };
