@@ -4,8 +4,8 @@
 const alegmal = {
   hobbies: [ "running", "gaming", "tech", "space" ],
   tech: {
-    currentFocus: [ "Go" ]
-    backlog: [ "GraphQL", "gRPC + Protobuf", "React", "bubbletea", "AWS Architect Certification" ],
+    currentFocus: [ "React", "AWS Prof Architect Certification" ]
+    backlog: [ "GraphQL", "Go", "gRPC + Protobuf", "bubbletea" ],
   },
   stats: {
     alts: 2,
