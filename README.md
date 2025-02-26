@@ -7,8 +7,8 @@ const alegmal = {
     currentFocus: [ "Learn something each day" ],
   },
   stats: {
-    alts: 2,
-    mainExpertise: "Devops"
+    alts: 3,
+    mainExpertise: "DevOps & Security"
   }
 };
 ```
